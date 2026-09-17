@@ -2,3 +2,4 @@
 # Lines starting with # are ignored
 https://raw.githubusercontent.com/ph00lt0/blocklist/master/domains.txt
 # https://example.com/another-blocklist.txt
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/tif.txt
