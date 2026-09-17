@@ -3,3 +3,5 @@
 https://raw.githubusercontent.com/ph00lt0/blocklist/master/domains.txt
 # https://example.com/another-blocklist.txt
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/tif.txt
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.txt
+https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt
